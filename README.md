@@ -1,13 +1,13 @@
 ## Resources for Project
 
 ### SVM
-Krish Naik YouTube: https://www.youtube.com/watch?v=H9yACitf-KM
+_Krish Naik YouTube: https://www.youtube.com/watch?v=H9yACitf-KM_
 
-## Project Submission Link
-Form: https://forms.gle/EbV6LMuTGyrMS9RC9
+### Project Submission Link
+_Form: https://forms.gle/EbV6LMuTGyrMS9RC9_
 
-## Pre Selected Student List
-Based on assignments submitted:
+### Pre Selected Student List
+_Based on assignments submitted:_
 - Mohammad Altaf Khan
 - Sworoop Raj Shrestha
 - Anick Khadka
